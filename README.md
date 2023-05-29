@@ -11,7 +11,7 @@ Base url : https://spamdetection-aphk7v4ylq-et.a.run.app/
 - Path : `/detect`
 - Method : `POST`
 - Request Body:
-    maximum word
+    <br>maximum word : 20 
     ```json
       {
           "Comment": "this is very very unuseful comment, you must consider it as spam",
